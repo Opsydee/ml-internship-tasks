@@ -1,0 +1,18 @@
+,OLS,Ridge (L2),Lasso (L1)
+ocean_proximity_ISLAND,130943.0,14789.0,0.0
+median_income,81270.0,78708.0,77948.0
+latitude,-56767.0,-54089.0,-54666.0
+longitude,-56392.0,-53808.0,-54114.0
+population,-45428.0,-44403.0,-44203.0
+households,37134.0,34472.0,36062.0
+ocean_proximity_INLAND,-34398.0,-35938.0,-35382.0
+bedrooms_per_room,18750.0,18266.0,18090.0
+income_x_rooms_per_hh,-14483.0,-12115.0,-10794.0
+rooms_per_household,13464.0,12142.0,11670.0
+income_x_age,12053.0,12929.0,12572.0
+total_rooms,10715.0,10283.0,9660.0
+housing_median_age,6051.0,5526.0,5535.0
+ocean_proximity_NEAR BAY,-5440.0,-4812.0,-3416.0
+total_bedrooms,2912.0,5082.0,3768.0
+ocean_proximity_NEAR OCEAN,2894.0,3361.0,2697.0
+population_per_household,402.0,318.0,220.0

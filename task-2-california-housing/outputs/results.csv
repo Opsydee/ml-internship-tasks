@@ -1,0 +1,4 @@
+Model,Best alpha,CV RMSE,Test RMSE,Test MAE,Test R2,Zero coefs
+OLS,n/a,67675,68845,49459,0.6383,0 of 17
+Ridge (L2),31.623,67659,68935,49437,0.6374,0 of 17
+Lasso (L1),100.0,67661,68937,49427,0.6373,1 of 17
