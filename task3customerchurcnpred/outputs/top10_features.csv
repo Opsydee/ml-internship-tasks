@@ -1,0 +1,11 @@
+RF feature,RF importance,XGB feature,XGB importance,Permutation feature,AUC drop
+Contract_Month-to-month,0.2564,Contract_Month-to-month,0.4544,Contract,0.12
+tenure,0.1134,InternetService_Fiber optic,0.0941,tenure,0.0444
+OnlineSecurity_No,0.1044,Contract_Two year,0.0656,InternetService,0.0193
+Contract_Two year,0.0804,OnlineSecurity_No,0.0374,OnlineSecurity,0.0076
+TotalCharges,0.0778,StreamingMovies_Yes,0.0291,TotalCharges,0.0061
+InternetService_Fiber optic,0.066,InternetService_DSL,0.026,MonthlyCharges,0.0045
+TechSupport_No,0.0655,TechSupport_No,0.022,TechSupport,0.0042
+MonthlyCharges,0.0532,Contract_One year,0.0205,PaymentMethod,0.0027
+Contract_One year,0.0269,StreamingTV_Yes,0.0189,PaperlessBilling,0.0019
+PaymentMethod_Electronic check,0.0247,tenure,0.0189,StreamingMovies,0.0013

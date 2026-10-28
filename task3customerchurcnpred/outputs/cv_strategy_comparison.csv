@@ -1,0 +1,10 @@
+Model,Strategy,CV ROC-AUC,Std
+Logistic Regression (baseline),none,0.8462,0.0126
+Logistic Regression (baseline),weights,0.8459,0.0124
+Logistic Regression (baseline),smote,0.845,0.0131
+Random Forest,none,0.848,0.0099
+Random Forest,weights,0.8476,0.0095
+Random Forest,smote,0.8448,0.0093
+XGBoost,none,0.8471,0.0111
+XGBoost,weights,0.8472,0.0111
+XGBoost,smote,0.8452,0.0121
